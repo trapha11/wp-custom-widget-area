@@ -2,7 +2,7 @@
 /**
  * The template for displaying all single posts.
  *
- * @package Odd Dog SMB
+ * trang-pham.com
  */
 
 get_header();
