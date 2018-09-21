@@ -5,9 +5,12 @@ Widget Area commonly knows as the boxes that either lives in sidebar or footer. 
 
 At times you would like to have these boxes in other areas other than sidebar or footer, that’s when creating customizable Widget Area comes in handy. To do so simply follow 3 steps:
 
-Registering a custom widget area
-Display Widget Area
-Add classes and HTML tags to custom widget area.
+1.Registering a custom widget area
+
+2.Display Widget Area
+
+3.Add classes and HTML tags to custom widget area.
+
 Let’s get started !
 
 1. Registering a custom widget area
